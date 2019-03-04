@@ -1,3 +1,3 @@
-*cars
-*computers
-*grapic design
+* cars
+* computers
+* grapic design
